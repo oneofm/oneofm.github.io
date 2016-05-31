@@ -1,14 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-Tyler is an Android Developer currently living in Durham, NC.  
-   He is a: <i class="material-icons md-18">&#xE52F;</i> mountain biker, <i class="material-icons md-18">&#xE405;</i> banjo picker, and a <i class="material-icons md-18">&#xE544;</i> coffee enthusiast.
+<p class="message">
+ Hey there! I am Cong Wang, a software engineer. My friends also call me Kurt. While loving my motherland China deeply, I dream about working for the leading technology companies in US. I am currently continuing my graduate study at Rutgers University, New Jersey. Of all the areas of Computer Science, Machine Learning fascinates me most. Aside from that, I like sports and cooking.
+</p>
 
-You can find him on [GitHub](https://github.com/TylerMcCraw), Twitter [@w3bshark](https://twitter.com/w3bshark), and [LinkedIn](https://www.linkedin.com/in/tylermccraw), or you can email him at mccraw.tyler [at] gmail.com.
-
-------
-
-This site was made with [Jekyll](http://jekyllrb.com), [Hyde](http://hyde.getpoole.com), [Poole](http://getpoole.com), and [Sass](http://sass-lang.com/). 
-It was written using a font family called [Roboto](https://www.google.com/fonts/specimen/Roboto) by [Christian Robinson](https://twitter.com/cr64) and the [Material Design Icons](http://google.github.io/material-design-icons/).
+"Talk is cheap. Show me the code"   --Linus Torvalds
+<br/>
+All meaningful work I have done is ML related. If you really want to know more, you can follow me on <a href="https://github.com/KurtWangRu">GitHub</a> or contact with me through <a href="https://www.facebook.com/cong.wang.37604">Facebook</a>. Thanks for your time!
+<br/>
+<br/>
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6409529&style=0025&nbdigits=7&type=page&initCount=0" title="IP Address" Alt="IP Address"   border="0" >
+</a>

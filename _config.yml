@@ -1,4 +1,5 @@
 # Dependencies
+markdown:         kramdown
 highlighter:      rouge
 gems: [jekyll-paginate, jekyll-gist, jekyll-github-metadata]
 
@@ -6,23 +7,21 @@ gems: [jekyll-paginate, jekyll-gist, jekyll-github-metadata]
 permalink:        pretty
 
 # Setup
-title:            Tyler McCraw
-tagline:          'An Android blog'
-description:      'A blog on Android development and other trains of thoughts.<br>Made by <a href="https://twitter.com/w3bshark" target="_blank">@w3bshark</a>.'
-url:              http://w3bshark.com
+title:            Kurt
+tagline:          'A Programmer'
+description:      'Technology blog about stuff I love!'
+url:              http://www.kurtwang.com
 baseurl:          /
 
 author:
-  name:           'Tyler McCraw'
-  url:            https://twitter.com/w3bshark
+  name: Cong Wang
+  url:  git@github.com:KurtWangRu/KurtWangRu.github.io.git
+  email: cong.wang@rutgers.edu
 
 paginate:         5
 
 # Custom vars
-github_link:	  https://github.com/tylermccraw
+version:          1.0
 
-# GitHub Metadata setup
-repository: 	  tylermccraw/tylermccraw.github.io
-
-# Disqus comments configuration (leave blank to disable comments)
-disqus_shortname: 'w3bshark'
+github:
+  repo:           https://github.com/KurtWangRu/KurtWangRu.github.io
