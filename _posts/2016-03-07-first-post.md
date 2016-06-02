@@ -7,6 +7,6 @@ title: First Post
 
 
 <div class="message">
-  Hello!
+  Hello World!
 </div>
 
