@@ -23,5 +23,10 @@ paginate:         5
 # Custom vars
 version:          1.0
 
-github:
-  repo:           https://github.com/KurtWangRu/KurtWangRu.github.io
+# Custom vars
+github_link:	  https://github.com/KurtWangRu
+
+# GitHub Metadata setup
+repository: 	  KurtWangRu/KurtWangRu.github.io
+# Disqus comments configuration (leave blank to disable comments)
+disqus_shortname: 'kurtwang'
