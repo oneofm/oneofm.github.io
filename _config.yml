@@ -22,7 +22,8 @@ paginate:         5
 
 # Custom vars
 version:          1.0
-
+github:
+  repo:           https://github.com/KurtWangRu/KurtWangRu.github.io
 # Custom vars
 github_link:	  https://github.com/KurtWangRu
 
