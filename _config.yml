@@ -7,27 +7,26 @@ gems: [jekyll-paginate, jekyll-gist, jekyll-github-metadata]
 permalink:        pretty
 
 # Setup
-title:            Kurt
+title:            MIAO
 tagline:          'A Programmer'
 description:      'Technology blog about stuff I love!'
-url:              http://www.kurtwang.com
+url:              oneofm.github.io
 baseurl:          /
 
 author:
-  name: Cong Wang
-  url:  git@github.com:KurtWangRu/KurtWangRu.github.io.git
-  email: cong.wang@rutgers.edu
+  name: ZHIYI MIAO
+  url:  git@github.com:oneofm/oneofm.github.io.git
+  email: miaozhiyi1992@gmail.com
 
 paginate:         5
 
 # Custom vars
 version:          1.0
 github:
-  repo:           https://github.com/KurtWangRu/KurtWangRu.github.io
+  repo:           https://github.com/oneofm/oneofm.github.io
 # Custom vars
-github_link:	  https://github.com/KurtWangRu
+github_link:	  https://github.com/oneofm
 
 # GitHub Metadata setup
-repository: 	  KurtWangRu/KurtWangRu.github.io
+repository: 	  oneofm/oneofm.github.io
 # Disqus comments configuration (leave blank to disable comments)
-disqus_shortname: 'kurtwang'
